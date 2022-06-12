@@ -1,3 +1,3 @@
 #!/bin/sh
 
-cd $PREFIX/share/DDos-Attack2 && python3 ddos-attack.py
+cd $PREFIX/share/DDos-Attack2 && python2 ddos-attack.py
