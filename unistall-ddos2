@@ -1,0 +1,3 @@
+#!/bin/sh
+
+cd $PREFIX/share/DDos-Attack2 && python unistall2.py
